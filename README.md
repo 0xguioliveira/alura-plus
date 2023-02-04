@@ -1,7 +1,7 @@
 <h1 align="center"> Alura Plus </h1>
 
 <p align="center">
-Projeto desenvolvido para serviços de streaming. Nesse projeto, foi projetado pelo designer apenas a versão desktop, e para estilizar o frontend dessa página eu utilizei o display grid e flex. A versão mobile foi feita por minha própria conta, sem receber design pronto.
+Projeto desenvolvido para serviços de streaming. Foi projetado pelo designer apenas a versão desktop, e para estilizar o frontend dessa página eu utilizei o display grid e flex. A versão mobile foi feita por minha própria conta, sem receber design pronto.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- o nosso projeto e o projeto é o Alura Plus, uma plataforma de streaming da Alura.
+O projeto foi desenvolver o frontend do serviço de streaming da Alura, o Alura Plus.
 
 ## 🔖 Layout
 
